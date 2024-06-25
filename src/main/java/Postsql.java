@@ -461,4 +461,6 @@ public class Postsql {
         }
     }
 }
-// profe estoy cansao
+// profe estoy cansao, dejo un comentari oaca , esta aplicacion deberia tener 3 tablas debido a la relacion entre libro y autor por que es de N:M en este caso se crea una nueva tabla,
+//pero para facilitarla gesion(estamos terminando el seemstre no tengo tiempo) deciri hacer que cada libro debe teneruno soloautor y un autor puede tener variso libros se conveirte en la relacion 1:N
+// asi que son 2 tablas no 3 que pedia el trabajo,por favor porfesora creeme que soy capaz de hacer eso pero no tengo tiempo:(
