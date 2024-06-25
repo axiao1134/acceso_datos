@@ -11,7 +11,7 @@ public class Postsql {
     // Constantes para la conexión a PostgreSQL
     private static final String JDBC_URL = "jdbc:postgresql://localhost:5432/postgres";
     private static final String USER = "postgres";
-    private static final String PASSWORD = "a2387192042"; // Reemplaza con tu contraseña
+    private static final String PASSWORD = "milla crea la misma base dadatso e ingrese tu contraseña"; // Reemplaza con tu contraseña
 
     // Expresión regular para el formato de fecha YYYY-MM-DD
     private static final String DATE_REGEX = "\\b\\d{4}-\\d{2}-\\d{2}\\b";
